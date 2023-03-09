@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(103, 194, 194);
+}
+.hoverprop:hover{
+    cursor: pointer;
+    border: 1px solid black;
+}
+button{
+    height: 60px;
+    width:185px;
+    font-size: 17px;
+    font-weight: bold;
+    background-color: black;
+    border-radius: 8px;
+    border: none;
+    margin-top: 10px;
+}
+button a{
+    text-decoration: none;
+    color: aqua;
+}
+table p{
+    font-size: 17px;
+}
+table p a{
+    /* text-decoration: none;
+    color: black; */
+}
+.bluejay{
+    width:300px;
+}
+.hybernate li {
+    list-style-image:
+    url('https://www.csd.uwo.ca/~lreid2/cs1033/assignment2/spring2023birds/checkbox.gif');
+    }
+.print button{
+    color: aqua;
+    
+    }
+.checklistTitle a{
+        text-decoration: none;
+        color: black;
+    }
